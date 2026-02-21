@@ -76,6 +76,8 @@ This improved stability significantly.
 | After PID Tuning | Partial Stability |
 | Reduced Height Version | Stable & Smooth |
 
+![Cad design](images/cad_model.jpeg)
+![Dimensions](images/dimension.png)
 ---
 
 # 🔌 Circuit Summary
@@ -133,6 +135,7 @@ BalancingBot/
 │   ├── after_design_change.jpeg
 │   ├── chassis.jpeg
 │   ├── LCD_update.jpeg
+│   ├── dimension.png
 ```
 
 ---
